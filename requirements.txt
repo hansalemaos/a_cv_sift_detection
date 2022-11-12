@@ -1,0 +1,9 @@
+a_cv2_imshow_thread
+a_cv_imwrite_imread_plus
+a_pandas_ex_group_coordinates_by_distance
+keyboard
+kthread
+opencv_python
+pandas
+Shapely
+windows_adb_screen_capture
