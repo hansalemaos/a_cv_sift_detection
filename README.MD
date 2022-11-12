@@ -5,7 +5,7 @@
 
 
 ```python
-
+$pip install a-cv-sift-detection
 from a_cv_sift_detection import SiftMatchingOnScreen
 needle_images = [
     r"C:\detectiontest\media_manager_icon--744x194--1250x738.png",
